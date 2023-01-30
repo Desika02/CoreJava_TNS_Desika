@@ -6,4 +6,5 @@
  *
  */
 module TnsFoundation {
+	requires java.sql;
 }
